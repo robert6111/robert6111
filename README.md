@@ -1,6 +1,6 @@
 <div align="center">
 
-  <p style="font-size: 10px;">Hi 👋, I'm Robert Kunenga</p>
+  <p style="font-size: 30px;">Hi 👋, I'm Robert Kunenga</p>
 
 </div>
 
