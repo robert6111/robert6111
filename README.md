@@ -88,11 +88,11 @@ A web-based system designed to manage car rental operations, including vehicle r
 
 ## Training and Professional Development
 
-| Programme                                                   | Provider | Period                |
-| ----------------------------------------------------------- | -------- | --------------------- |
-| PHP Programming and Software Development Internship         | TERNET   | June – September 2025 |
-| CyberSec Bootcamp                                           | DIT      | July 2025             |
-| Python Programming and Data Fundamentals (virtual training) | DataCamp | June – September 2024 |
+| Programme                                                   | Provider | Period                 |
+| ----------------------------------------------------------- | -------- | ---------------------- |
+| PHP Programming and Software Development Internship         | TERNET   | June – September 2025  |
+| CyberSec Bootcamp                                           | DIT      | July 2025              |
+| Python Programming and Data Fundamentals (virtual training) | DataCamp | June – September 2024. |
 
 **Planning to pursue:** CCNA, AWS and Kubernetes-related certifications.
 
