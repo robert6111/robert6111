@@ -54,7 +54,7 @@ have practical experience developing web-based management systems, working with 
 
 ### CVC Hall Management System
 
-**Live:** [cvchall.org](https://cvchall.org) &nbsp;|&nbsp; **Role:** Full-Stack Developer and Application Deployment
+**Live:** [cvchall.org](https://cvchall.org) <br> **Role:** Full-Stack Developer and Application Deployment<br>
 **Stack:** PHP, MySQL, HTML, CSS, JavaScript, XAMPP, Hostinger
 
 A web application for managing hall and venue bookings. It covers customer records, payment tracking and invoicing, financial reporting, and database administration and backups. I developed it locally with XAMPP and deployed it to Hostinger.
@@ -62,7 +62,7 @@ A web application for managing hall and venue bookings. It covers customer recor
 ### Worldveil: Music Recognition and Audio Fingerprinting
 
 **Stack:** Python, MySQL, audio processing, ACRCloud API
-Repository: https://github.com/robert6111/shazam
+**Repository:** https://github.com/robert6111/shazam
 
 Records audio and identifies music through the ACRCloud cloud service, stores results in a local database, and keeps recognition metadata, listening timestamps and recognition history. This is a personal project, not a commercial product.
 
