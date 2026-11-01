@@ -61,7 +61,7 @@ A web application for managing hall and venue bookings. It covers customer recor
 
 ### Worldveil: Music Recognition and Audio Fingerprinting
 
-**Stack:** Python, MySQL, audio processing, ACRCloud API
+**Stack:** Python, MySQL, audio processing, ACRCloud API <br>
 **Repository:** https://github.com/robert6111/shazam
 
 Records audio and identifies music through the ACRCloud cloud service, stores results in a local database, and keeps recognition metadata, listening timestamps and recognition history. This is a personal project, not a commercial product.
@@ -74,7 +74,7 @@ A management system for a salon and spa: appointment and walk-in handling, custo
 
 ### Library Management System
 
-**Repository:** [wex328-library-management-system](https://github.com/robertkunenga2/wex328-library-management-system)
+**Repository:** [wex328-library-management-system](https://github.com/robertkunenga2/ wex328-library-management-system)<br>
 **Stack:** Python, FastAPI, PostgreSQL, Docker
 
 A library management API backed by PostgreSQL, with a Docker-based development environment and a large book dataset integrated. This is a university project,not a commercial project
