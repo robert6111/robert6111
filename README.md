@@ -81,7 +81,7 @@ A web-based system designed to manage car rental operations, including vehicle r
 
 ## Education
 
-**BSc Computer Engineering**, OSTİM Technical University, Ankara, Türkiye
+**BSc Computer Engineering**<br> OSTİM Technical University, Ankara, Türkiye
 2023 – 2027 (expected graduation: July 2027)
 
 ---
@@ -94,7 +94,7 @@ A web-based system designed to manage car rental operations, including vehicle r
 | CyberSec Bootcamp                                           | DIT      | July 2025             |
 | Python Programming and Data Fundamentals (virtual training) | DataCamp | June – September 2024 |
 
-**Planning to pursue:** CCNA, AWS and Kubernetes-related certifications. None of these are completed yet.
+**Planning to pursue:** CCNA, AWS and Kubernetes-related certifications.
 
 ---
 
