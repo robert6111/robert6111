@@ -15,7 +15,7 @@ I have practical experience developing web-based management systems, working wit
 | Technical Area               | Skills & Tools               |
 | ---------------------------- | ---------------------------- |
 | **Programming Languages**    | PHP, Python, JavaScript, SQL |
-| **Web Development**          | HTML5, CSS3                  |
+| **Web Development**          | HTML5, CSS                   |
 | **Databases & APIs**         | MySQL, PostgreSQL, FastAPI   |
 | **Operating Systems**        | Linux, Ubuntu                |
 | **Networking**               | TCP/IP, Cisco Packet Tracer  |
