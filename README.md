@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi 👋, I'm Robert Kunenga
+  <p style="font-size: 10px;">Hi 👋, I'm Robert Kunenga</p>
 
 </div>
 
@@ -11,8 +11,6 @@ I am a Computer Engineering student at OSTİM Technical University (Ankara, Tür
 have practical experience developing web-based management systems, working with databases, and deploying applications. My interests include software engineering, Linux systems, computer networking, cloud infrastructure and DevOps.
 
 ---
-
-## Technical Skills
 
 ## Technical Skills
 
@@ -65,13 +63,11 @@ A web application for managing hall and venue bookings. It covers customer recor
 
 **Stack:** Python, MySQL, audio processing, ACRCloud API
 Repository: https://github.com/robert6111/shazam
-Stack: Python, FastAPI, PostgreSQL, Docker
 
 Records audio and identifies music through the ACRCloud cloud service, stores results in a local database, and keeps recognition metadata, listening timestamps and recognition history. This is a personal project, not a commercial product.
 
 ### Eden Skin: Salon and Spa Management System
 
-**Role:** Independent Software Developer
 **Stack:** PHP, MySQL, HTML, CSS, JavaScript, XAMPP
 
 A management system for a salon and spa: appointment and walk-in handling, customer and staff management, services and inventory, point of sale, payments and payroll, reporting with PDF exports, and database backup and restoration.
