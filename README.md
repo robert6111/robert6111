@@ -1,28 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Robert%20Baraka%20Kunenga&fontColor=e6edf3&fontSize=38&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Software%20Development%20%7C%20Networking%20%26%20Infrastructure&descColor=9da7b3&descSize=15&descAlignY=60" alt="Robert Baraka Kunenga - Computer Engineering Student" width="100%"/>
+Hi 👋, I'm Robert Kunenga
 
 </div>
 
 ## About Me
 
-I am a Computer Engineering student at OSTİM Technical University (Ankara, Türkiye), expected to graduate in July 2027. I am Tanzanian, currently based in Türkiye.
+I am a Computer Engineering student at OSTİM Technical University (Ankara, Türkiye), expected to graduate in July 2027.
 
-I build web applications with PHP, MySQL and Python, and I am developing towards DevOps, cloud infrastructure and networking. My focus right now is turning solid software development practice into stronger Linux, networking and deployment skills.
-
-**Looking for:** funded master's programmes (Computer Science, Computer Engineering, Cloud Computing), internships and junior roles in DevOps, cloud, network support, IT infrastructure and software development.
+have practical experience developing web-based management systems, working with databases, and deploying applications. My interests include software engineering, Linux systems, computer networking, cloud infrastructure and DevOps.
 
 ---
 
 ## Technical Skills
 
-| Area                            | Skills                                                                                                                                                                                                       |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Programming and Development** | PHP, Python, JavaScript, HTML5, CSS3, SQL, MySQL, PostgreSQL, FastAPI                                                                                                                                        |
-| **Systems and Infrastructure**  | Linux (Intermediate), Git and GitHub (Advanced), Docker (Beginner), Networking and TCP/IP (Intermediate), Cisco Packet Tracer (Intermediate), Bash (practical experience), PowerShell (practical experience) |
-| **Development Tools**           | VS Code, XAMPP, Ubuntu, Git Bash                                                                                                                                                                             |
+## Technical Skills
 
-**Currently developing towards:** DevOps and automation, cloud infrastructure, Linux system administration, software deployment and infrastructure management.
+| Technical Area               | Skills & Tools               |
+| ---------------------------- | ---------------------------- |
+| **Programming Languages**    | PHP, Python, JavaScript, SQL |
+| **Web Development**          | HTML5, CSS3                  |
+| **Databases & APIs**         | MySQL, PostgreSQL, FastAPI   |
+| **Operating Systems**        | Linux, Ubuntu                |
+| **Networking**               | TCP/IP, Cisco Packet Tracer  |
+| **DevOps & Version Control** | Git & GitHub, Docker         |
+| **Scripting**                | Bash, PowerShell             |
+| **Development Environment**  | VS Code, XAMPP, Git Bash     |
+
+**Current Learning Focus:** Linux system administration, infrastructure automation, cloud computing, DevOps practices and software deployment. |
 
 ---
 
@@ -56,6 +61,14 @@ I build web applications with PHP, MySQL and Python, and I am developing towards
 
 A web application for managing hall and venue bookings. It covers customer records, payment tracking and invoicing, financial reporting, and database administration and backups. I developed it locally with XAMPP and deployed it to Hostinger.
 
+### Worldveil: Music Recognition and Audio Fingerprinting
+
+**Stack:** Python, MySQL, audio processing, ACRCloud API
+Repository: https://github.com/robert6111/shazam
+Stack: Python, FastAPI, PostgreSQL, Docker
+
+Records audio and identifies music through the ACRCloud cloud service, stores results in a local database, and keeps recognition metadata, listening timestamps and recognition history. This is a personal project, not a commercial product.
+
 ### Eden Skin: Salon and Spa Management System
 
 **Role:** Independent Software Developer
@@ -68,14 +81,7 @@ A management system for a salon and spa: appointment and walk-in handling, custo
 **Repository:** [wex328-library-management-system](https://github.com/robertkunenga2/wex328-library-management-system)
 **Stack:** Python, FastAPI, PostgreSQL, Docker
 
-A library management API backed by PostgreSQL, with a Docker-based development environment and a large book dataset integrated.
-
-### Worldveil: Music Recognition and Audio Fingerprinting
-
-**Type:** Academic engineering project, OSTİM Technical University
-**Stack:** Python, MySQL, audio processing, ACRCloud API
-
-Records audio and identifies music through the ACRCloud cloud service, stores results in a local database, and keeps recognition metadata, listening timestamps and recognition history. This is a university project, not a commercial product.
+A library management API backed by PostgreSQL, with a Docker-based development environment and a large book dataset integrated. This is a university project,not a commercial project
 
 ---
 
