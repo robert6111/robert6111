@@ -66,7 +66,8 @@ Records audio and identifies music through the ACRCloud cloud service, stores re
 
 ### Eden Skin: Salon and Spa Management System
 
-**Stack:** PHP, MySQL, HTML, CSS, JavaScript, XAMPP
+**Stack:** PHP, MySQL, HTML, CSS, JavaScript, XAMPP<br>
+**Repository:** https://github.com/robert6111/eden-skin-management-system
 
 A management system for a salon and spa: appointment and walk-in handling, customer and staff management, services and inventory, point of sale, payments and payroll, reporting with PDF exports, and database backup and restoration.
 
