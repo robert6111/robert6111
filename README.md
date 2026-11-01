@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Robert Kunenga</h1>
 </div>
+
 ## About Me
 
 I am a Computer Engineering student at OSTİM Technical University (Ankara, Türkiye), expected to graduate in July 2027.
