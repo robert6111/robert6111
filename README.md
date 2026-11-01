@@ -6,7 +6,7 @@
 
 I am a Computer Engineering student at OSTİM Technical University (Ankara, Türkiye), expected to graduate in July 2027.
 
-have practical experience developing web-based management systems, working with databases, and deploying applications. My interests include software engineering, Linux systems, computer networking, cloud infrastructure and DevOps.
+I have practical experience developing web-based management systems, working with databases, and deploying applications. My interests include software engineering, Linux systems, computer networking, cloud infrastructure and DevOps.
 
 ---
 
@@ -23,7 +23,7 @@ have practical experience developing web-based management systems, working with 
 | **Scripting**                | Bash, PowerShell             |
 | **Development Environment**  | VS Code, XAMPP, Git Bash     |
 
-**Current Learning Focus:** Linux system administration, infrastructure automation, cloud computing, DevOps practices and software deployment. |
+**Current Learning Focus:** Linux system administration, infrastructure automation, cloud computing, DevOps practices and software deployment.
 
 ---
 
