@@ -16,11 +16,11 @@ I build web applications with PHP, MySQL and Python, and I am developing towards
 
 ## Technical Skills
 
-| Area | Skills |
-|---|---|
-| **Programming and Development** | PHP, Python, JavaScript, HTML5, CSS3, SQL, MySQL, PostgreSQL, FastAPI |
-| **Systems and Infrastructure** | Linux (Intermediate), Git and GitHub (Advanced), Docker (Beginner), Networking and TCP/IP (Intermediate), Cisco Packet Tracer (Intermediate), Bash (practical experience), PowerShell (practical experience) |
-| **Development Tools** | VS Code, XAMPP, Ubuntu, Git Bash |
+| Area                            | Skills                                                                                                                                                                                                       |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Programming and Development** | PHP, Python, JavaScript, HTML5, CSS3, SQL, MySQL, PostgreSQL, FastAPI                                                                                                                                        |
+| **Systems and Infrastructure**  | Linux (Intermediate), Git and GitHub (Advanced), Docker (Beginner), Networking and TCP/IP (Intermediate), Cisco Packet Tracer (Intermediate), Bash (practical experience), PowerShell (practical experience) |
+| **Development Tools**           | VS Code, XAMPP, Ubuntu, Git Bash                                                                                                                                                                             |
 
 **Currently developing towards:** DevOps and automation, cloud infrastructure, Linux system administration, software deployment and infrastructure management.
 
@@ -50,24 +50,28 @@ I build web applications with PHP, MySQL and Python, and I am developing towards
 ## Featured Projects
 
 ### CVC Hall Management System
+
 **Live:** [cvchall.org](https://cvchall.org) &nbsp;|&nbsp; **Role:** Full-Stack Developer and Application Deployment
 **Stack:** PHP, MySQL, HTML, CSS, JavaScript, XAMPP, Hostinger
 
 A web application for managing hall and venue bookings. It covers customer records, payment tracking and invoicing, financial reporting, and database administration and backups. I developed it locally with XAMPP and deployed it to Hostinger.
 
 ### Eden Skin: Salon and Spa Management System
+
 **Role:** Independent Software Developer
 **Stack:** PHP, MySQL, HTML, CSS, JavaScript, XAMPP
 
 A management system for a salon and spa: appointment and walk-in handling, customer and staff management, services and inventory, point of sale, payments and payroll, reporting with PDF exports, and database backup and restoration.
 
 ### Library Management System
+
 **Repository:** [wex328-library-management-system](https://github.com/robertkunenga2/wex328-library-management-system)
 **Stack:** Python, FastAPI, PostgreSQL, Docker
 
 A library management API backed by PostgreSQL, with a Docker-based development environment and a large book dataset integrated.
 
 ### Worldveil: Music Recognition and Audio Fingerprinting
+
 **Type:** Academic engineering project, OSTİM Technical University
 **Stack:** Python, MySQL, audio processing, ACRCloud API
 
@@ -84,32 +88,32 @@ Records audio and identifies music through the ACRCloud cloud service, stores re
 
 ## Training and Professional Development
 
-| Programme | Provider | Period |
-|---|---|---|
-| PHP Programming and Software Development Internship | TERNET | June – September 2025 |
-| CyberSec Bootcamp | DIT | July 2025 |
+| Programme                                                   | Provider | Period                |
+| ----------------------------------------------------------- | -------- | --------------------- |
+| PHP Programming and Software Development Internship         | TERNET   | June – September 2025 |
+| CyberSec Bootcamp                                           | DIT      | July 2025             |
 | Python Programming and Data Fundamentals (virtual training) | DataCamp | June – September 2024 |
 
 **Planning to pursue:** CCNA, AWS and Kubernetes-related certifications. None of these are completed yet.
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=robert6111&show_icons=true&theme=github_dark&hide_border=true&count_private=false" alt="GitHub stats for robert6111"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert6111&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages for robert6111"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=robert6111&show_icons=true&theme=github_dark&hide_border=true&count_private=false" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert6111&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=robert6111&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for robert6111"/>
+  <img src="https://streak-stats.demolab.com/?user=robert6111&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robert6111&theme=github-compact&hide_border=true&bg_color=0d1117&color=9da7b3&line=1f6feb&point=e6edf3" alt="Contribution activity graph for robert6111" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robert6111&theme=github-compact&hide_border=true&bg_color=0d1117&color=9da7b3&line=1f6feb&point=e6edf3" alt="Contribution Activity Graph" width="100%" />
 </p>
-
----
 
 ## Contact
 
