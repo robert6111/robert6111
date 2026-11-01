@@ -70,12 +70,12 @@ Records audio and identifies music through the ACRCloud cloud service, stores re
 
 A management system for a salon and spa: appointment and walk-in handling, customer and staff management, services and inventory, point of sale, payments and payroll, reporting with PDF exports, and database backup and restoration.
 
-### Library Management System
+### Car Rental Management System
 
-**Repository:** [wex328-library-management-system](https://github.com/robertkunenga2/ wex328-library-management-system)<br>
-**Stack:** Python, FastAPI, PostgreSQL, Docker
+**Stack:** PHP, MySQL, HTML, CSS, JavaScript, XAMPP <br>
+**Repository:** https://github.com/robert6111/car_rental
 
-A library management API backed by PostgreSQL, with a Docker-based development environment and a large book dataset integrated. This is a university project,not a commercial project
+A web-based system designed to manage car rental operations, including vehicle records, customer management, rental bookings, payments, and rental tracking.
 
 ---
 
