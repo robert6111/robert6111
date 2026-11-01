@@ -98,31 +98,8 @@ Records audio and identifies music through the ACRCloud cloud service, stores re
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=robert6111&show_icons=true&theme=github_dark&hide_border=true&count_private=false" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert6111&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=robert6111&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robert6111&theme=github-compact&hide_border=true&bg_color=0d1117&color=9da7b3&line=1f6feb&point=e6edf3" alt="Contribution Activity Graph" width="100%" />
-</p>
-
 ## Contact
 
 - **Email:** [kunengarobert@gmail.com](mailto:kunengarobert@gmail.com)
 - **LinkedIn:** [robert-kunenga](https://www.linkedin.com/in/robert-kunenga-b68035346/)
 - **GitHub:** [robert6111](https://github.com/robert6111)
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=80&section=footer" alt="" width="100%"/>
-
-</div>
